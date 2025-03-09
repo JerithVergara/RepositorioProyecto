@@ -1,0 +1,1 @@
+print("Primera configuracion del proyecto, creacion del archivo de python")
