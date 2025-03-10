@@ -10,5 +10,10 @@ Este es el Índice de la Documentación de mi proyecto.
    - Una compra de $600,000 tiene un 55% de inversión, 30% préstamo, 15% crédito (+20% interés).
    - Una compra de $400,000 tiene un 70% de inversión, 30% crédito (+20% interés).
 
+
+5. Contacto: Para soporte, contactar el autor o empresa desarrolladora del sistema. 
+
+Cambio realizado
+
 5. Contacto: Para soporte, contactar el autor o empresa desarrolladora del sistema.
 
