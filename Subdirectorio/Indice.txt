@@ -1,0 +1,13 @@
+Este es el Índice de la Documentación de mi proyecto.
+
+1. Introducción: Es un sistema que permite calcular la forma de pago de órdenes de compra según su monto total.
+
+2. Configuración: Este sistema se basa en inversión propia, préstamo bancario y crédito con intereses.
+
+3. Funcionamiento: Permite calcular el monto total multiplicando el número de piezas por su precio unitario y distribuye el pago según las reglas establecidas.
+
+4. Ejemplo de cálculo
+   - Una compra de $600,000 tiene un 55% de inversión, 30% préstamo, 15% crédito (+20% interés).
+   - Una compra de $400,000 tiene un 70% de inversión, 30% crédito (+20% interés).
+
+5. Contacto: Para soporte, contactar el autor o empresa desarrolladora del sistema.
