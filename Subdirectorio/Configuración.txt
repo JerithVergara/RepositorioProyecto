@@ -22,4 +22,4 @@ Parámetros para realizar el cálculo:
   * Resto del monto.
   * Intereses del fabricante: 20% sobre el crédito solicitado.
 
-Actualización del repositorio remoto
+Realizamos actualización del repositorio remoto
