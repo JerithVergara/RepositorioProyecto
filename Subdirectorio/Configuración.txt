@@ -1,0 +1,25 @@
+Configuración del Sistema de Cálculo de Pagos
+
+Autor: JERITH ELI VERGARA TORRES
+
+Propósito del proyecto: Este sistema calcula la forma de pago de las órdenes de compra según el monto total.
+
+- El sistema recibirá como entrada:
+  * Cantidad de piezas que desea comprar.
+  * Valor unitario de cada pieza.
+
+Parámetros para realizar el cálculo:
+
+- Inversión propia:
+  * 55% si el monto total excede $500,000.
+  * 70% si el monto total es $500,000 o menos.
+
+- Préstamo bancario:
+  * 30% si el monto total excede los $500,000.
+  * 0% si el monto total es igual o menor a $500,000.
+
+- Crédito con el fabricante:
+  * Resto del monto.
+  * Intereses del fabricante: 20% sobre el crédito solicitado.
+
+Actualización del repositorio remoto
